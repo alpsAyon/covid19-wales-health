@@ -35,7 +35,7 @@ decline came between Wave 2 (3.84%) and Wave 4 (0.77%), coinciding directly with
 vaccination rollout in Wales through late 2020 and early 2021.
 
 **2. Vaccines decoupled cases from hospitalisation**
-Wave 5 (Omicron) produced 119,280 cases — more than all previous waves combined — yet the
+Wave 5 (Omicron) produced 119,280 cases, more than all previous waves combined, yet the
 hospitalisation-to-case ratio was just 0.104, compared to 1.305 in Wave 1. Peak hospital
 cases during Omicron (1,480) were lower than during Wave 2 (2,320) despite nearly three times
 as many infections. This is the clearest evidence of vaccine effectiveness at population level.
@@ -48,12 +48,12 @@ coverage at the time.
 **4. Deprivation strongly predicts COVID-19 burden**
 WIMD 2019 deprivation scores correlated with estimated case rates at r = -0.995 across all
 22 Welsh local authorities. The five most deprived areas averaged 12,709 estimated cases per
-100,000 population, compared to 6,790 in the five least deprived — an 87% difference.
+100,000 population, compared to 6,790 in the five least deprived, an 87% difference.
 Blaenau Gwent and Merthyr Tydfil, the most deprived areas in Wales, were consistently among
 the hardest hit.
 
 **5. Winter waves were consistently more severe**
-Waves 2, 5 and 7 — all winter waves — produced higher death tolls and hospitalisation peaks
+Waves 2, 5 and 7, all winter waves, produced higher death tolls and hospitalisation peaks
 than their summer counterparts, reflecting the role of indoor transmission and seasonal
 respiratory disease burden in Wales.
 
@@ -61,11 +61,11 @@ respiratory disease burden in Wales.
 
 ## Visualisations
 
-- Full pandemic timeline — new cases, hospitalisations, and deaths across all 7 waves
+- Full pandemic timeline, new cases, hospitalisations, and deaths across all 7 waves
 - Cumulative cases and deaths with CFR trend over time
 - Deprivation vs case rate scatter plot (bubble size = population)
 - Estimated deaths per 100k by local authority, sorted by deprivation
-- Wave-by-wave severity comparison — cases, deaths, CFR, and hospitalisation ratio
+- Wave-by-wave severity comparison, cases, deaths, CFR, and hospitalisation ratio
 
 ---
 
